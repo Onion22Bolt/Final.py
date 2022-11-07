@@ -14,7 +14,8 @@
      4) The request object is a Request subclass and provides all of the attributes Werkzeug defines plus a few Flask specific ones.
     
         
-**- Usage:** When User provides an address of an NFT and presses the button, it should show full information about that NFT and store all the data inside the Postgres                Database.
+**- Usage:** 
+When User provides an address of an NFT and presses the button, it should show full information about that NFT and store all the data inside the Postgres Database.
 
 -![image](https://user-images.githubusercontent.com/99860769/200324787-67690d37-75d4-42cc-8374-edae2a093bba.png)
 -![image](https://user-images.githubusercontent.com/99860769/200324832-41f4306d-6875-4a39-8d84-0f40159d0975.png)
